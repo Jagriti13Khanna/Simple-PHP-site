@@ -3,7 +3,7 @@ A simple PHP generated HTML page based on Tropico video game using includes.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Languages](#languages)
 * [Setup](#setup)
 
 ## General info
@@ -17,7 +17,7 @@ This is a page built using PHP. The site includes:
 * Footer.php
 all done using PHP includes.
 
-## Technologies 
+## Languages 
 * HTML5
 * CSS3
 * PHP
