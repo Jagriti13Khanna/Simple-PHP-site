@@ -1,4 +1,6 @@
-# Introduction
+# Basic PHP Landing Page
+
+## Introduction
 A simple PHP generated HTML page based on Tropico video game using includes.
 
 ## Table of contents
