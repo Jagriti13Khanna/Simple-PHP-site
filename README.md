@@ -1,4 +1,4 @@
-# Basic PHP Landing Page
+# PHP Page on Tropico
 A simple PHP generated HTML page based on Tropico video game using includes.
 
 ## Table of contents
